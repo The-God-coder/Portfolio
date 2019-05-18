@@ -1,3 +1,3 @@
 # Portfolio
-This is a project that uses django to count all the word in the text from least to greatest. 
+This is a project that uses django rom that has a homepage of posts and a blog. 
 this uses only the django python framework and postgressql database.
